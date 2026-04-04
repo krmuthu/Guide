@@ -31,3 +31,8 @@ curl -L -C - --retry 20 --retry-delay 30 --connect-timeout 120 --max-time 0 `
   -x $proxy `
   -o "Qwen3-235B-A22B-Instruct-2507-UD-Q4_K_XL-00003-of-00003.gguf" `
   "$base/Qwen3-235B-A22B-Instruct-2507-UD-Q4_K_XL-00003-of-00003.gguf"
+
+https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-Q4_K_XL/Qwen3.5-122B-A10B-UD-Q4_K_XL-00001-of-00003.gguf?download=true
+https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-Q4_K_XL/Qwen3.5-122B-A10B-UD-Q4_K_XL-00002-of-00003.gguf?download=true
+
+https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-Q4_K_XL/Qwen3.5-122B-A10B-UD-Q4_K_XL-00003-of-00003.gguf?download=true
