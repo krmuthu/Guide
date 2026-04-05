@@ -2,7 +2,7 @@ https://huggingface.co/nomic-ai/CodeRankEmbed/tree/main
 
 [Qwen/Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B)
 
-
+https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF/blob/main/Qwen3-Coder-Next-Q2_K.gguf
 
 
 
