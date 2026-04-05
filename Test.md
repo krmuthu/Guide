@@ -4,7 +4,7 @@ https://huggingface.co/nomic-ai/CodeRankEmbed/tree/main
 
 https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF/blob/main/Qwen3-Coder-Next-Q2_K.gguf
 
-
+https://huggingface.co/tomaarsen/Qwen3-Reranker-0.6B-seq-cls/tree/main
 
 
 
