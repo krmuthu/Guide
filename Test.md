@@ -1,3 +1,13 @@
+https://huggingface.co/nomic-ai/CodeRankEmbed/tree/main
+
+
+
+
+
+
+
+
+
 https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF/tree/main/UD-Q4_K_XL
 
 
